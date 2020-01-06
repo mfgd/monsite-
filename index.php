@@ -10,6 +10,8 @@
 <body>
     <div class="container">
         <h1 class="display-4 text-center text-info">Découverte GIT / GITHUB</h1>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit praesentium aspernatur soluta, quasi eaque officiis. Eligendi provident saepe dolores, reprehenderit excepturi harum earum vitae alias soluta nulla sit porro odio rem dolor molestias? Provident eius, aliquam atque corporis dolore nisi cupiditate adipisci hic, eligendi voluptates laudantium voluptas modi iusto. Laborum incidunt ipsum asperiores adipisci deleniti vel libero dolores quia excepturi recusandae aperiam eaque fugit error ut nemo, soluta veritatis enim ullam sed nam natus eveniet. Ullam, tempore recusandae eligendi minima consectetur ipsa quam corrupti tenetur. Maxime saepe fugiat, esse itaque sapiente atque illum optio similique nisi, delectus quod, quos nemo.</p>
     </div> <!-- Fin CONTAINER -->
 </body>
 </html>
